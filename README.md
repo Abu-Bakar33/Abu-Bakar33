@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/abu-bakar-965071223" target="blank"><img align="center" 
-<a href="https://instagram.com/m.abu_bakar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abubakar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abu-bakar-965071223" target="blank"><img align="center" />
+<a href="https://instagram.com/m.abu_bakar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Abubakar/" height="30" width="40" />
 <a href="https://discord.gg/bakar#0660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bakar#0660" height="30" width="40" /></a>
 </p>
 
